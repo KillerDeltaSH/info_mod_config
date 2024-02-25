@@ -1,0 +1,41 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 60,
+        "IconURL": "",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+          "title1": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+          "text1": "Welcome to Shadowhunter Gaming\n\nThese servers are cross continent in the USA and South Africa.\nServers marked [USA] are located in America and Servers marked with [ZA] are located in South Africa.\nYou can travel between all servers, please note that if you play on a server in another country you may experience high ping. \n\nPlease feel free to join discord (Button Below) to make any suggestions",
+          "imageurl": "https://raw.githubusercontent.com/KillerDeltaSH/sh_images/main/new_logo.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.shadowhunter.co.za"
+        }
+      },
+      {
+        "link2": {
+          "text": "Website",
+          "url": "https:shadowhunter.co.za/website/"
+        }
+      }
+    ]
+  }
+}
